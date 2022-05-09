@@ -1,0 +1,18 @@
+{
+  "name": "contentful-editable-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "execute": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful": "^9.1.28",
+    "contentful-management": "^10.3.1",
+    "nodemon": "^2.0.16"
+  }
+}
